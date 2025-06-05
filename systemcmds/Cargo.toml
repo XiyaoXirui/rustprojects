@@ -1,0 +1,10 @@
+[package]
+name = "systemcmds"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+colored = "2.1"
+chrono = "0.4"
+strip-ansi-escapes = "0.2"

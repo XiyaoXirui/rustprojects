@@ -1,0 +1,32 @@
+# Rust 编译产物
+**/target/
+
+# IDE 相关
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# Rust 工具链相关
+**/.rustc_info.json
+**/.cargo-lock
+
+# 调试文件
+**/*.pdb
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+
+# 备份文件
+**/*.rs.bk
+**/*.swp
+
+# 环境文件
+**/.env
+**/.env.local
+
+systemcmds/logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db 
